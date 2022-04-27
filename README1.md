@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 # BloXmove Dev : Generalized Contracting Flow
