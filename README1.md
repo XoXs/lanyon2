@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About
 ---
 
 # BloXmove Dev : Generalized Contracting Flow
