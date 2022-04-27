@@ -2,7 +2,7 @@
 # Available Pages
  - Architecture Overview
    1. [Core mechanisms](/README1)
-   2. [Generalized Contracting Flow]({% README1.md | absolute_url %})
+   2. [Generalized Contracting Flow]<a href="README1.md">asdasd</a>
    3. [aims / Credential Exchange](/README1.md)
    4. [Verifiable Credential / Verifiable Presentation](README5.md)
    5. [Use of BBS+ signatures](README6.md)
