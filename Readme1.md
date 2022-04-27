@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # BloXmove Dev : Generalized Contracting Flow
 ## Single Contract
 Based on the asset and attestation concept described in the Core mechanisms , the basic contracting flow consists of the following assets (all represented by DID) and a series of attestations:
