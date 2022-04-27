@@ -1,8 +1,8 @@
 ![This is an image](bloxmove_colour.png)
 # Available Pages
  - Architecture Overview
-   1. [Core mechanisms](Readme1.md)
-   2. [Generalized Contracting Flow](Readme1.md)
+   1. [Core mechanisms](README1.md)
+   2. [Generalized Contracting Flow](README1.md)
    3. [aims / Credential Exchange](/README4.md)
    4. [Verifiable Credential / Verifiable Presentation](README5.md)
    5. [Use of BBS+ signatures](README6.md)
